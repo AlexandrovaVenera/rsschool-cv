@@ -1,1 +1,1 @@
-https://FaizievaVenera.github.io/rsschool-cv/cv
+[cv](https://FaizievaVenera.github.io/rsschool-cv/cv)

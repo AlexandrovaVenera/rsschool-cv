@@ -17,7 +17,7 @@ I want to learn Front-End Development!
 * Figma
 * Webpack
 * Tailwind
-***
+******
 ### Code example:
 ```
 function submit(e) {
@@ -36,7 +36,7 @@ function submit(e) {
   }
 }
 ```
-***
+******
 ### Portfolio: 
 [plants](https://faizievavenera.github.io/plants/)
 [momentum](https://rolling-scopes-school.github.io/faizievavenera-JSFEPRESCHOOL2022Q4/momentum/)
@@ -48,7 +48,7 @@ function submit(e) {
     * RS PreSchool(https://rs.school/js-stage0/)
     * RS Schools Course «JavaScript/Front-end» (in progress)   
     * JavaScript Manual on [learn.javascript.ru](https://learn.javascript.ru/) (in progress)     
-***
+******
 ### Languages:
 * English - A2
 * Russian - native
